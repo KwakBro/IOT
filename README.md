@@ -37,7 +37,8 @@ n개의 Client < 텐트, 캠프 > + 각 Client의 주인 < 이용객 >
 ===
 Raspberry Pi 와 Sensor 들의 Serial Communication 구현 및 데이터 정형화  
 Client 측의 RX, TX Thread 구성.  
-Application의 제어기능 위한 Control 프로토콜 제안 및 기능 구현
+Application의 제어기능 위한 Control 프로토콜 제안 및 기능  
+전체적인 Back-end Part 구현  
 
 -------------------------------------------------------------------------
 
